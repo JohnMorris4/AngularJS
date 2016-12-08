@@ -33,7 +33,7 @@ git clone  https://github.com/angular/quickstart  my-proj
 cd my-proj
 ```
 
-We have no intention of updating the source on `angular/quickstart`.
+We have no intention of updating the source on `JohnMorris4/AngularJS`.
 Discard everything "git-like" by deleting the `.git` folder.
 ```bash
 rm -rf .git  # non-Windows
